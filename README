@@ -1,0 +1,21 @@
+About
+-----
+
+An example D program that uses SDL to draw graphics. This is more or less
+strigh port of the SDLTest.c program (http://friedspace.com/SDLTest.c) from C
+to D.
+
+Building
+--------
+
+Make sure you have a D compiler and SDL library installed on your system. Build
+with 'make'. This will build the 'demo' binary. The compiler used can be
+configured by editing the 'config.mak' file. Uncomment the appropriate line for
+desired compiler.
+
+Copyright
+---------
+
+The code is in public domain.
+
+
